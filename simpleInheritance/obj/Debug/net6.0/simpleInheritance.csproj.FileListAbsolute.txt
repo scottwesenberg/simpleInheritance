@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\bin\Debug\net6.0\simpleInheritance.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\bin\Debug\net6.0\simpleInheritance.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\bin\Debug\net6.0\simpleInheritance.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\bin\Debug\net6.0\simpleInheritance.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\bin\Debug\net6.0\simpleInheritance.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\obj\Debug\net6.0\simpleInheritance.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\obj\Debug\net6.0\simpleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\obj\Debug\net6.0\simpleInheritance.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\obj\Debug\net6.0\simpleInheritance.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\obj\Debug\net6.0\simpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\obj\Debug\net6.0\simpleInheritance.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\obj\Debug\net6.0\refint\simpleInheritance.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\obj\Debug\net6.0\simpleInheritance.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\obj\Debug\net6.0\simpleInheritance.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\simpleInheritance\simpleInheritance\obj\Debug\net6.0\ref\simpleInheritance.dll
